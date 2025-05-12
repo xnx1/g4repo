@@ -1,0 +1,8 @@
+Origin: G4
+# Label: 
+Suite: stable
+Version: 1.1
+Codename: Muzilla
+Architectures: iphoneos-arm
+Components: main
+Description: 个人测试专用源
