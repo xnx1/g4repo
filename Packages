@@ -1,0 +1,85 @@
+Package: com.g4.paytool
+Version: 0.0.1-214
+Architecture: iphoneos-arm
+Maintainer: G4
+Installed-Size: 872
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.g4.paytool_0.0.1-214_iphoneos-arm.deb
+Size: 182446
+MD5sum: 629421627bf6a55cb7746dfc89c99e20
+SHA1: 58fd699e2792c9d541f8c8234e0326df259cd1d1
+SHA256: fc79e9e8a1841d4e3121fcd85650ce98a3e1f5662871719335ad9520b99bf7bb
+Section: Utilities
+Description: 京东代付助手，微信代付，云闪付代付，qq代付，微信支付等
+Author: G4
+Name: 京东代付助手
+
+Package: com.g4.paytool
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: G4
+Installed-Size: 872
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.g4.paytool_1.0.1-1_iphoneos-arm.deb
+Size: 181366
+MD5sum: 22e69d64f3e1f865a43bd2d2be2d007e
+SHA1: 81b6eb015c07f3397e3ed96efed9d7bdc422dfb7
+SHA256: 87c9193019918351b750bf7cc7efae89ad8d7cf3a27ae061fc39e3667ceff64d
+Section: Utilities
+Description: 京东代付助手，微信代付，云闪付代付，qq代付，微信支付等
+Author: G4
+Name: 京东代付助手
+
+Package: com.g4.paytool
+Version: 1.0.1-13
+Architecture: iphoneos-arm
+Maintainer: G4
+Installed-Size: 872
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.g4.paytool_1.0.1-13_iphoneos-arm.deb
+Size: 181596
+MD5sum: a0ac561e00f621ee0e49867101775a38
+SHA1: a13515d3dc1fb3591cc0b39c3ec904795230dbc3
+SHA256: 379488646755481b00db0e1ad08ba4ab7b23d45120a66da105882b97dc018080
+Section: Utilities
+Description: 京东代付助手，微信代付，云闪付代付，qq代付，微信支付等
+Author: G4
+Name: 京东代付助手
+
+Package: com.g4.rocketbootstrap
+Version: 1.0.10~beta1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10~beta1.deb
+Size: 38524
+MD5sum: c2698aea3f99312b4bc690a72f87935b
+SHA1: 175001d4641296766f0cbf5d48ed4f2b93c28f62
+SHA256: 30d84b146f26e0ddb851789dd7403dd53e99a35599436e7f73cfe002bca4ca77
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.g4.themocker
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: G4
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.g4.themocker_0.0.1-4_iphoneos-arm.deb
+Size: 27846
+MD5sum: be7d720c525a7606eb0ca0701310a040
+SHA1: 232bb6b4666908c7b2f5b2f99c4d02de65d63e8a
+SHA256: 1e0cf15a18cf86699e661434c42029ec38038e5b0c306b870aeb3eb12bf82a89
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: G4
+Name: TheMocker
+
